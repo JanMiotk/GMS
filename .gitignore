@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+#vs files
+/gms/gms.sln
+/gms/gms/gms.*
+/gms/gms/0
+/gms.sln
